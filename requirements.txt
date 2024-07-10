@@ -1,3 +1,4 @@
 Flask~=2.1.1
 Werkzeug~=2.1.1
 SQLAlchemy~=1.4.35
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
